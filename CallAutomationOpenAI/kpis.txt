@@ -1,0 +1,171 @@
+
+
+KPIs: 
+ Call Length: 37 seconds
+ Time Saved for Firm: 18 seconds
+ Avg Response Time: 715ms
+ 
+Effectiveness of Receptionist: 9 out of 10
+
+Sentiment of Caller: 8 out of 10
+
+Likelihood of Caller continuing with the firm: 7 out of 10
+
+Priority: 1 out of 10; Low Priority  
+Reason for Priority: The call is informational in nature, with no immediate legal issue or urgency indicated.
+Contact Info Received: 0
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 94 seconds
+ Time Saved for Firm: 50 seconds
+ Avg Response Time: 553ms
+ 
+Effectiveness of Receptionist: 9 out of 10
+
+Sentiment of Caller: 8 out of 10
+
+Likelihood of Caller continuing with the firm: 8 out of 10
+
+Priority: 5 out of 10; Medium Priority  
+Reason for Priority: The case involves business legal counsel for a rapidly expanding company, indicating potential for growth and significant financial stakes. However, without immediate legal issues or high liability concerns described, the urgency remains moderate.
+Contact Info Received: 0
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 119 seconds
+ Time Saved for Firm: 65 seconds
+ Avg Response Time: 857ms
+ 
+Effectiveness of Receptionist: 8 out of 10
+
+Sentiment of Caller: 7 out of 10
+
+Likelihood of Caller continuing with the firm: 7 out of 10
+
+Priority: 6 out of 10; Medium Priority  
+Reason for Priority: The case involves the passing of a CEO and sole heir which indicates potential significant assets at stake. Additionally, estate planning matters can have a considerable impact on the family's financial future. However, there are no indications of urgent or catastrophic injuries and the immediate resolution of the case is less time-sensitive compared to others like wrongful death or serious injury claims.
+Contact Info Received: 0  
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 37 seconds
+ Time Saved for Firm: 12 seconds
+ Avg Response Time: 934ms
+ 
+Effectiveness of Receptionist: 8 out of 10
+
+Sentiment of Caller: 6 out of 10  
+Likelihood of Caller continuing with the firm: 5 out of 10
+
+Priority: 1 out of 10; Low Priority  
+Reason for Priority: The caller is inquiring about general information on the law firm and does not indicate any urgent or specific legal issue that requires immediate attention.
+Contact Info Received: 0  
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 44 seconds
+ Time Saved for Firm: 16 seconds
+ Avg Response Time: 993ms
+ 
+Effectiveness of Receptionist: 7 out of 10  
+Sentiment of Caller: 4 out of 10  
+Likelihood of Caller continuing with the firm: 5 out of 10  
+
+Priority: Low priority out of 10; Low Priority  
+Reason for Priority: The caller has not provided any specific information or context regarding a legal issue, making it difficult to assess the urgency or significance of the case.
+Contact Info Received: 0
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 102 seconds
+ Time Saved for Firm: 51 seconds
+ Avg Response Time: 1025ms
+ 
+Effectiveness of Receptionist: 9 out of 10  
+
+Sentiment of Caller: 8 out of 10  
+Likelihood of Caller continuing with the firm: 8 out of 10  
+
+Priority: 3 out of 10; Low Priority  
+Reason for Priority: The case involves a business merger, which typically does not involve significant financial damages, serious injuries, or clear liability issues. As it's a new case without immediate urgent issues highlighted, it ranks lower in priority compared to other legal matters.
+Contact Info Received: 0
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 40 seconds
+ Time Saved for Firm: 27 seconds
+ Avg Response Time: 1281ms
+ 
+Effectiveness of Receptionist: 8 out of 10
+
+Sentiment of Caller: 6 out of 10  
+Likelihood of Caller continuing with the firm: 7 out of 10
+
+Priority: 4 out of 10; Medium Priority  
+Reason for Priority: The caller is an existing client, indicating ongoing legal matters, but there's no information suggesting significant financial stakes, serious injuries, or other high-priority indicators related to their situation.
+Contact Info Received: 0
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 85 seconds
+ Time Saved for Firm: 63 seconds
+ Avg Response Time: 1522ms
+ 
+Effectiveness of Receptionist: 8 out of 10
+
+Sentiment of Caller: 7 out of 10
+
+Likelihood of Caller continuing with the firm: 8 out of 10
+
+Priority: 2 out of 10; Low Priority  
+Reason for Priority: The call does not present any urgent issues, significant financial stakes, or indicators of serious injury or liability. The client is new and only discussing general litigation without clear specifics that suggest high priority.
+Contact Info Received: 0
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 59 seconds
+ Time Saved for Firm: 38 seconds
+ Avg Response Time: 620ms
+ 
+Effectiveness of Receptionist: 6 out of 10
+
+Sentiment of Caller: 5 out of 10  
+Likelihood of Caller continuing with the firm: 7 out of 10
+
+Priority: 3 out of 10; Low Priority  
+Reason for Priority: The issue pertains to business law, which typically involves less urgent matters compared to personal injury or wrongful death cases. The lack of indication of significant financial damages or critical impact on the plaintiff's livelihood also suggests a lower priority.
+Contact Info Received: 0  
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 79 seconds
+ Time Saved for Firm: 49 seconds
+ Avg Response Time: 780ms
+ 
+Effectiveness of Receptionist: 6 out of 10
+
+Sentiment of Caller: 5 out of 10
+
+Likelihood of Caller continuing with the firm: 7 out of 10
+
+Priority: 4 out of 10; Medium Priority  
+Reason for Priority: While mergers can involve significant financial considerations, the urgency and potential damages are unclear at this stage. There is no indication of high-stakes or serious consequences that would elevate the priority of this inquiry significantly.
+Contact Info Received: 0
+Consultation Requested: 0
+
+KPIs: 
+ Call Length: 62 seconds
+ Time Saved for Firm: 28 seconds
+ Avg Response Time: 1156ms
+ 
+Effectiveness of Receptionist: 6 out of 10
+
+Sentiment of Caller: 5 out of 10
+
+Likelihood of Caller continuing with the firm: 6 out of 10
+
+Priority: Low priority out of 10; Low Priority  
+Reason for Priority: The caller hasn't provided any specific information regarding the nature of their case, which makes it difficult to assess urgency or importance.
+Contact Info Received: 0
+Consultation Requested: 0
